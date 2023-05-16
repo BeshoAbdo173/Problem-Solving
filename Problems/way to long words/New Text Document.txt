@@ -1,0 +1,6 @@
+string waytoolong(string s){
+	char f = s.front;
+	char l = s.back;
+	int x = s.length()-2 ;
+	return f x l;
+}
